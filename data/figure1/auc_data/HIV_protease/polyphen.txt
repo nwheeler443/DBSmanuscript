@@ -1,0 +1,342 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+Q9Q2G8              	     1	    P	    L	         ?	Q9Q2G8    	     1	  P	  L	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	     1	    P	    S	         ?	Q9Q2G8    	     1	  P	  S	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	     1	    P	    H	         ?	Q9Q2G8    	     1	  P	  H	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	     2	    Q	    E	         ?	Q9Q2G8    	     2	  Q	  E	            benign	     0.135	     0.138	     0.924
+Q9Q2G8              	     3	    I	    L	         ?	Q9Q2G8    	     3	  I	  L	            benign	     0.135	     0.138	     0.924
+Q9Q2G8              	     3	    I	    T	         ?	Q9Q2G8    	     3	  I	  T	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	     3	    I	    N	         ?	Q9Q2G8    	     3	  I	  N	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	     3	    I	    S	         ?	Q9Q2G8    	     3	  I	  S	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	     4	    T	    S	         ?	Q9Q2G8    	     4	  T	  S	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	     4	    T	    R	         ?	Q9Q2G8    	     4	  T	  R	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	     5	    L	    V	         ?	Q9Q2G8    	     5	  L	  V	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	     5	    L	    H	         ?	Q9Q2G8    	     5	  L	  H	 probably damaging	     0.993	    0.0301	     0.696
+Q9Q2G8              	     6	    W	    G	         ?	Q9Q2G8    	     6	  W	  G	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	     6	    W	    C	         ?	Q9Q2G8    	     6	  W	  C	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	     6	    W	    L	         ?	Q9Q2G8    	     6	  W	  L	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	     7	    Q	    H	         ?	Q9Q2G8    	     7	  Q	  H	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	     7	    Q	    P	         ?	Q9Q2G8    	     7	  Q	  P	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	     7	    Q	    L	         ?	Q9Q2G8    	     7	  Q	  L	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	     8	    R	    G	         ?	Q9Q2G8    	     8	  R	  G	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	     8	    R	    L	         ?	Q9Q2G8    	     8	  R	  L	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	     8	    R	    Q	         ?	Q9Q2G8    	     8	  R	  Q	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	     9	    P	    S	         ?	Q9Q2G8    	     9	  P	  S	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	     9	    P	    T	         ?	Q9Q2G8    	     9	  P	  T	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	     9	    P	    H	         ?	Q9Q2G8    	     9	  P	  H	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	     9	    P	    R	         ?	Q9Q2G8    	     9	  P	  R	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    10	    L	    I	         ?	Q9Q2G8    	    10	  L	  I	            benign	         0	         1	         1
+Q9Q2G8              	    10	    L	    V	         ?	Q9Q2G8    	    10	  L	  V	            benign	         0	         1	         1
+Q9Q2G8              	    10	    L	    H	         ?	Q9Q2G8    	    10	  L	  H	            benign	     0.402	     0.105	     0.895
+Q9Q2G8              	    10	    L	    R	         ?	Q9Q2G8    	    10	  L	  R	            benign	     0.055	     0.163	      0.94
+Q9Q2G8              	    11	    V	    I	         ?	Q9Q2G8    	    11	  V	  I	            benign	         0	         1	         1
+Q9Q2G8              	    11	    V	    A	         ?	Q9Q2G8    	    11	  V	  A	            benign	     0.008	     0.239	     0.963
+Q9Q2G8              	    11	    V	    G	         ?	Q9Q2G8    	    11	  V	  G	            benign	     0.036	     0.176	     0.945
+Q9Q2G8              	    12	    T	    S	         ?	Q9Q2G8    	    12	  T	  S	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    12	    T	    I	         ?	Q9Q2G8    	    12	  T	  I	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    13	    I	    V	         ?	Q9Q2G8    	    13	  I	  V	            benign	         0	         1	         1
+Q9Q2G8              	    13	    I	    L	         ?	Q9Q2G8    	    13	  I	  L	            benign	     0.001	     0.852	     0.994
+Q9Q2G8              	    13	    I	    M	         ?	Q9Q2G8    	    13	  I	  M	            benign	     0.061	     0.161	     0.938
+Q9Q2G8              	    14	    K	    T	         ?	Q9Q2G8    	    14	  K	  T	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    14	    K	    M	         ?	Q9Q2G8    	    14	  K	  M	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    14	    K	    N	         ?	Q9Q2G8    	    14	  K	  N	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    14	    K	    E	         ?	Q9Q2G8    	    14	  K	  E	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    14	    K	    Q	         ?	Q9Q2G8    	    14	  K	  Q	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    15	    I	    V	         ?	Q9Q2G8    	    15	  I	  V	            benign	         0	         1	         1
+Q9Q2G8              	    15	    I	    T	         ?	Q9Q2G8    	    15	  I	  T	            benign	     0.004	     0.408	     0.975
+Q9Q2G8              	    15	    I	    R	         ?	Q9Q2G8    	    15	  I	  R	            benign	     0.116	     0.142	     0.927
+Q9Q2G8              	    16	    G	    V	         ?	Q9Q2G8    	    16	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    16	    G	    W	         ?	Q9Q2G8    	    16	  G	  W	 probably damaging	     0.999	   0.00574	     0.136
+Q9Q2G8              	    17	    G	    W	         ?	Q9Q2G8    	    17	  G	  W	 probably damaging	     0.999	   0.00574	     0.136
+Q9Q2G8              	    17	    G	    E	         ?	Q9Q2G8    	    17	  G	  E	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    18	    Q	    L	         ?	Q9Q2G8    	    18	  Q	  L	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    18	    Q	    H	         ?	Q9Q2G8    	    18	  Q	  H	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    18	    Q	    R	         ?	Q9Q2G8    	    18	  Q	  R	            benign	     0.271	     0.116	     0.909
+Q9Q2G8              	    19	    L	    T	         ?	Q9Q2G8    	    19	  L	  T	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    20	    K	    M	         ?	Q9Q2G8    	    20	  K	  M	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    20	    K	    Q	         ?	Q9Q2G8    	    20	  K	  Q	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    21	    E	    Q	         ?	Q9Q2G8    	    21	  E	  Q	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    21	    E	    V	         ?	Q9Q2G8    	    21	  E	  V	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    21	    E	    K	         ?	Q9Q2G8    	    21	  E	  K	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    22	    A	    G	         ?	Q9Q2G8    	    22	  A	  G	 possibly damaging	     0.805	    0.0722	     0.842
+Q9Q2G8              	    22	    A	    T	         ?	Q9Q2G8    	    22	  A	  T	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    22	    A	    D	         ?	Q9Q2G8    	    22	  A	  D	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    23	    L	    V	         ?	Q9Q2G8    	    23	  L	  V	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    23	    L	    P	         ?	Q9Q2G8    	    23	  L	  P	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    23	    L	    Q	         ?	Q9Q2G8    	    23	  L	  Q	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    23	    L	    R	         ?	Q9Q2G8    	    23	  L	  R	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    24	    L	    M	         ?	Q9Q2G8    	    24	  L	  M	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    24	    L	    V	         ?	Q9Q2G8    	    24	  L	  V	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    24	    L	    S	         ?	Q9Q2G8    	    24	  L	  S	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    24	    L	    F	         ?	Q9Q2G8    	    24	  L	  F	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    25	    D	    A	         ?	Q9Q2G8    	    25	  D	  A	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    25	    D	    Y	         ?	Q9Q2G8    	    25	  D	  Y	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    25	    D	    H	         ?	Q9Q2G8    	    25	  D	  H	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    26	    T	    A	         ?	Q9Q2G8    	    26	  T	  A	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    26	    T	    I	         ?	Q9Q2G8    	    26	  T	  I	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    26	    T	    K	         ?	Q9Q2G8    	    26	  T	  K	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    26	    T	    R	         ?	Q9Q2G8    	    26	  T	  R	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    27	    G	    A	         ?	Q9Q2G8    	    27	  G	  A	 probably damaging	     0.979	    0.0411	     0.755
+Q9Q2G8              	    27	    G	    P	         ?	Q9Q2G8    	    27	  G	  P	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    27	    G	    I	         ?	Q9Q2G8    	    27	  G	  I	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    27	    G	    V	         ?	Q9Q2G8    	    27	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    27	    G	    L	         ?	Q9Q2G8    	    27	  G	  L	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    27	    G	    R	         ?	Q9Q2G8    	    27	  G	  R	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    27	    G	    D	         ?	Q9Q2G8    	    27	  G	  D	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    28	    A	    G	         ?	Q9Q2G8    	    28	  A	  G	 possibly damaging	     0.805	    0.0722	     0.842
+Q9Q2G8              	    28	    A	    S	         ?	Q9Q2G8    	    28	  A	  S	 possibly damaging	     0.805	    0.0722	     0.842
+Q9Q2G8              	    28	    A	    T	         ?	Q9Q2G8    	    28	  A	  T	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    28	    A	    E	         ?	Q9Q2G8    	    28	  A	  E	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    29	    D	    E	         ?	Q9Q2G8    	    29	  D	  E	 possibly damaging	     0.805	    0.0722	     0.842
+Q9Q2G8              	    29	    D	    N	         ?	Q9Q2G8    	    29	  D	  N	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    29	    D	    A	         ?	Q9Q2G8    	    29	  D	  A	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    29	    D	    G	         ?	Q9Q2G8    	    29	  D	  G	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    29	    D	    V	         ?	Q9Q2G8    	    29	  D	  V	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    30	    D	    E	         ?	Q9Q2G8    	    30	  D	  E	 possibly damaging	     0.805	    0.0722	     0.842
+Q9Q2G8              	    30	    D	    N	         ?	Q9Q2G8    	    30	  D	  N	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    30	    D	    Y	         ?	Q9Q2G8    	    30	  D	  Y	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    31	    T	    S	         ?	Q9Q2G8    	    31	  T	  S	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    31	    T	    A	         ?	Q9Q2G8    	    31	  T	  A	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    31	    T	    I	         ?	Q9Q2G8    	    31	  T	  I	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    31	    T	    R	         ?	Q9Q2G8    	    31	  T	  R	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    32	    V	    L	         ?	Q9Q2G8    	    32	  V	  L	 possibly damaging	     0.455	    0.0995	     0.889
+Q9Q2G8              	    32	    V	    E	         ?	Q9Q2G8    	    32	  V	  E	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    33	    L	    V	         ?	Q9Q2G8    	    33	  L	  V	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    33	    L	    A	         ?	Q9Q2G8    	    33	  L	  A	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    33	    L	    G	         ?	Q9Q2G8    	    33	  L	  G	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    33	    L	    S	         ?	Q9Q2G8    	    33	  L	  S	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    33	    L	    I	         ?	Q9Q2G8    	    33	  L	  I	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    33	    L	    T	         ?	Q9Q2G8    	    33	  L	  T	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    33	    L	    N	         ?	Q9Q2G8    	    33	  L	  N	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    33	    L	    D	         ?	Q9Q2G8    	    33	  L	  D	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    33	    L	    Y	         ?	Q9Q2G8    	    33	  L	  Y	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    33	    L	    E	         ?	Q9Q2G8    	    33	  L	  E	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    34	    E	    A	         ?	Q9Q2G8    	    34	  E	  A	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    35	    E	    S	         ?	Q9Q2G8    	    35	  E	  S	            benign	     0.004	     0.408	     0.975
+Q9Q2G8              	    35	    E	    A	         ?	Q9Q2G8    	    35	  E	  A	            benign	     0.008	     0.239	     0.963
+Q9Q2G8              	    35	    E	    L	         ?	Q9Q2G8    	    35	  E	  L	            benign	     0.018	     0.202	     0.953
+Q9Q2G8              	    35	    E	    K	         ?	Q9Q2G8    	    35	  E	  K	            benign	     0.008	     0.239	     0.963
+Q9Q2G8              	    35	    E	    M	         ?	Q9Q2G8    	    35	  E	  M	 possibly damaging	     0.602	    0.0918	     0.873
+Q9Q2G8              	    35	    E	    G	         ?	Q9Q2G8    	    35	  E	  G	            benign	     0.008	     0.239	     0.963
+Q9Q2G8              	    36	    M	    I	         ?	Q9Q2G8    	    36	  M	  I	            benign	     0.014	     0.212	     0.956
+Q9Q2G8              	    36	    M	    R	         ?	Q9Q2G8    	    36	  M	  R	            benign	     0.092	     0.148	     0.931
+Q9Q2G8              	    37	    S	    G	         ?	Q9Q2G8    	    37	  S	  G	            benign	     0.001	     0.852	     0.994
+Q9Q2G8              	    37	    S	    R	         ?	Q9Q2G8    	    37	  S	  R	            benign	     0.004	     0.408	     0.975
+Q9Q2G8              	    38	    L	    V	         ?	Q9Q2G8    	    38	  L	  V	            benign	     0.008	     0.239	     0.963
+Q9Q2G8              	    38	    L	    F	         ?	Q9Q2G8    	    38	  L	  F	            benign	     0.038	     0.175	     0.944
+Q9Q2G8              	    39	    P	    R	         ?	Q9Q2G8    	    39	  P	  R	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    39	    P	    A	         ?	Q9Q2G8    	    39	  P	  A	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    39	    P	    T	         ?	Q9Q2G8    	    39	  P	  T	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    39	    P	    L	         ?	Q9Q2G8    	    39	  P	  L	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    40	    G	    E	         ?	Q9Q2G8    	    40	  G	  E	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    40	    G	    R	         ?	Q9Q2G8    	    40	  G	  R	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    41	    R	    K	         ?	Q9Q2G8    	    41	  R	  K	            benign	         0	         1	         1
+Q9Q2G8              	    41	    R	    I	         ?	Q9Q2G8    	    41	  R	  I	            benign	     0.055	     0.163	      0.94
+Q9Q2G8              	    42	    W	    G	         ?	Q9Q2G8    	    42	  W	  G	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    42	    W	    L	         ?	Q9Q2G8    	    42	  W	  L	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    42	    W	    R	         ?	Q9Q2G8    	    42	  W	  R	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    43	    K	    N	         ?	Q9Q2G8    	    43	  K	  N	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    43	    K	    Q	         ?	Q9Q2G8    	    43	  K	  Q	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    44	    P	    T	         ?	Q9Q2G8    	    44	  P	  T	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    44	    P	    R	         ?	Q9Q2G8    	    44	  P	  R	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    45	    K	    R	         ?	Q9Q2G8    	    45	  K	  R	            benign	         0	         1	         1
+Q9Q2G8              	    45	    K	    T	         ?	Q9Q2G8    	    45	  K	  T	            benign	     0.018	     0.202	     0.953
+Q9Q2G8              	    45	    K	    Q	         ?	Q9Q2G8    	    45	  K	  Q	            benign	     0.009	     0.233	     0.961
+Q9Q2G8              	    46	    M	    L	         ?	Q9Q2G8    	    46	  M	  L	            benign	     0.014	     0.212	     0.956
+Q9Q2G8              	    47	    I	    L	         ?	Q9Q2G8    	    47	  I	  L	            benign	     0.135	     0.138	     0.924
+Q9Q2G8              	    47	    I	    M	         ?	Q9Q2G8    	    47	  I	  M	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    47	    I	    S	         ?	Q9Q2G8    	    47	  I	  S	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    47	    I	    T	         ?	Q9Q2G8    	    47	  I	  T	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    47	    I	    D	         ?	Q9Q2G8    	    47	  I	  D	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    47	    I	    E	         ?	Q9Q2G8    	    47	  I	  E	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    47	    I	    R	         ?	Q9Q2G8    	    47	  I	  R	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    48	    G	    S	         ?	Q9Q2G8    	    48	  G	  S	 probably damaging	     0.991	    0.0326	     0.711
+Q9Q2G8              	    48	    G	    T	         ?	Q9Q2G8    	    48	  G	  T	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    48	    G	    I	         ?	Q9Q2G8    	    48	  G	  I	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    48	    G	    E	         ?	Q9Q2G8    	    48	  G	  E	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    48	    G	    H	         ?	Q9Q2G8    	    48	  G	  H	 probably damaging	     0.999	   0.00574	     0.136
+Q9Q2G8              	    49	    G	    V	         ?	Q9Q2G8    	    49	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    49	    G	    R	         ?	Q9Q2G8    	    49	  G	  R	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    50	    I	    L	         ?	Q9Q2G8    	    50	  I	  L	            benign	     0.135	     0.138	     0.924
+Q9Q2G8              	    50	    I	    M	         ?	Q9Q2G8    	    50	  I	  M	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    50	    I	    T	         ?	Q9Q2G8    	    50	  I	  T	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    50	    I	    N	         ?	Q9Q2G8    	    50	  I	  N	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    50	    I	    R	         ?	Q9Q2G8    	    50	  I	  R	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    51	    G	    A	         ?	Q9Q2G8    	    51	  G	  A	 probably damaging	     0.979	    0.0411	     0.755
+Q9Q2G8              	    51	    G	    K	         ?	Q9Q2G8    	    51	  G	  K	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    51	    G	    V	         ?	Q9Q2G8    	    51	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    51	    G	    C	         ?	Q9Q2G8    	    51	  G	  C	 probably damaging	     0.999	   0.00574	     0.136
+Q9Q2G8              	    52	    G	    A	         ?	Q9Q2G8    	    52	  G	  A	 probably damaging	     0.979	    0.0411	     0.755
+Q9Q2G8              	    52	    G	    S	         ?	Q9Q2G8    	    52	  G	  S	 probably damaging	     0.991	    0.0326	     0.711
+Q9Q2G8              	    52	    G	    V	         ?	Q9Q2G8    	    52	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    52	    G	    D	         ?	Q9Q2G8    	    52	  G	  D	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    53	    F	    Y	         ?	Q9Q2G8    	    53	  F	  Y	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    53	    F	    I	         ?	Q9Q2G8    	    53	  F	  I	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    53	    F	    L	         ?	Q9Q2G8    	    53	  F	  L	            benign	     0.271	     0.116	     0.909
+Q9Q2G8              	    53	    F	    V	         ?	Q9Q2G8    	    53	  F	  V	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    54	    I	    L	         ?	Q9Q2G8    	    54	  I	  L	            benign	     0.135	     0.138	     0.924
+Q9Q2G8              	    54	    I	    S	         ?	Q9Q2G8    	    54	  I	  S	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    54	    I	    T	         ?	Q9Q2G8    	    54	  I	  T	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    54	    I	    F	         ?	Q9Q2G8    	    54	  I	  F	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    55	    K	    R	         ?	Q9Q2G8    	    55	  K	  R	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    55	    K	    T	         ?	Q9Q2G8    	    55	  K	  T	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    55	    K	    I	         ?	Q9Q2G8    	    55	  K	  I	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    55	    K	    N	         ?	Q9Q2G8    	    55	  K	  N	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    55	    K	    Q	         ?	Q9Q2G8    	    55	  K	  Q	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    56	    V	    I	         ?	Q9Q2G8    	    56	  V	  I	 possibly damaging	     0.455	    0.0995	     0.889
+Q9Q2G8              	    56	    V	    L	         ?	Q9Q2G8    	    56	  V	  L	 possibly damaging	     0.455	    0.0995	     0.889
+Q9Q2G8              	    56	    V	    G	         ?	Q9Q2G8    	    56	  V	  G	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    57	    R	    K	         ?	Q9Q2G8    	    57	  R	  K	            benign	     0.271	     0.116	     0.909
+Q9Q2G8              	    57	    R	    G	         ?	Q9Q2G8    	    57	  R	  G	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    57	    R	    S	         ?	Q9Q2G8    	    57	  R	  S	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    57	    R	    T	         ?	Q9Q2G8    	    57	  R	  T	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    57	    R	    I	         ?	Q9Q2G8    	    57	  R	  I	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    58	    Q	    E	         ?	Q9Q2G8    	    58	  Q	  E	            benign	     0.135	     0.138	     0.924
+Q9Q2G8              	    58	    Q	    P	         ?	Q9Q2G8    	    58	  Q	  P	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    58	    Q	    K	         ?	Q9Q2G8    	    58	  Q	  K	            benign	     0.271	     0.116	     0.909
+Q9Q2G8              	    58	    Q	    H	         ?	Q9Q2G8    	    58	  Q	  H	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    59	    Y	    D	         ?	Q9Q2G8    	    59	  Y	  D	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    59	    Y	    C	         ?	Q9Q2G8    	    59	  Y	  C	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    60	    D	    E	         ?	Q9Q2G8    	    60	  D	  E	 possibly damaging	     0.805	    0.0722	     0.842
+Q9Q2G8              	    60	    D	    V	         ?	Q9Q2G8    	    60	  D	  V	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    61	    Q	    P	         ?	Q9Q2G8    	    61	  Q	  P	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    61	    Q	    L	         ?	Q9Q2G8    	    61	  Q	  L	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    61	    Q	    R	         ?	Q9Q2G8    	    61	  Q	  R	            benign	     0.271	     0.116	     0.909
+Q9Q2G8              	    62	    I	    L	         ?	Q9Q2G8    	    62	  I	  L	            benign	     0.001	     0.852	     0.994
+Q9Q2G8              	    63	    L	    I	         ?	Q9Q2G8    	    63	  L	  I	            benign	     0.003	     0.556	     0.981
+Q9Q2G8              	    63	    L	    V	         ?	Q9Q2G8    	    63	  L	  V	            benign	     0.001	     0.852	     0.994
+Q9Q2G8              	    63	    L	    P	         ?	Q9Q2G8    	    63	  L	  P	            benign	     0.028	     0.185	     0.948
+Q9Q2G8              	    63	    L	    R	         ?	Q9Q2G8    	    63	  L	  R	            benign	     0.028	     0.185	     0.948
+Q9Q2G8              	    64	    I	    L	         ?	Q9Q2G8    	    64	  I	  L	            benign	     0.001	     0.852	     0.994
+Q9Q2G8              	    64	    I	    T	         ?	Q9Q2G8    	    64	  I	  T	            benign	     0.004	     0.408	     0.975
+Q9Q2G8              	    64	    I	    R	         ?	Q9Q2G8    	    64	  I	  R	            benign	     0.116	     0.142	     0.927
+Q9Q2G8              	    65	    E	    V	         ?	Q9Q2G8    	    65	  E	  V	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    65	    E	    K	         ?	Q9Q2G8    	    65	  E	  K	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    66	    I	    L	         ?	Q9Q2G8    	    66	  I	  L	            benign	     0.135	     0.138	     0.924
+Q9Q2G8              	    66	    I	    M	         ?	Q9Q2G8    	    66	  I	  M	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    66	    I	    V	         ?	Q9Q2G8    	    66	  I	  V	            benign	     0.049	     0.167	     0.941
+Q9Q2G8              	    66	    I	    S	         ?	Q9Q2G8    	    66	  I	  S	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    66	    I	    T	         ?	Q9Q2G8    	    66	  I	  T	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    66	    I	    F	         ?	Q9Q2G8    	    66	  I	  F	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    67	    C	    G	         ?	Q9Q2G8    	    67	  C	  G	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    67	    C	    F	         ?	Q9Q2G8    	    67	  C	  F	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    67	    C	    W	         ?	Q9Q2G8    	    67	  C	  W	 possibly damaging	     0.944	    0.0544	     0.797
+Q9Q2G8              	    67	    C	    Y	         ?	Q9Q2G8    	    67	  C	  Y	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    68	    G	    V	         ?	Q9Q2G8    	    68	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    68	    G	    E	         ?	Q9Q2G8    	    68	  G	  E	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    69	    H	    R	         ?	Q9Q2G8    	    69	  H	  R	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    69	    H	    L	         ?	Q9Q2G8    	    69	  H	  L	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    69	    H	    Y	         ?	Q9Q2G8    	    69	  H	  Y	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    69	    H	    D	         ?	Q9Q2G8    	    69	  H	  D	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    69	    H	    N	         ?	Q9Q2G8    	    69	  H	  N	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    69	    H	    Q	         ?	Q9Q2G8    	    69	  H	  Q	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    70	    K	    T	         ?	Q9Q2G8    	    70	  K	  T	            benign	     0.018	     0.202	     0.953
+Q9Q2G8              	    70	    K	    I	         ?	Q9Q2G8    	    70	  K	  I	            benign	     0.116	     0.142	     0.927
+Q9Q2G8              	    70	    K	    N	         ?	Q9Q2G8    	    70	  K	  N	            benign	     0.018	     0.202	     0.953
+Q9Q2G8              	    71	    A	    P	         ?	Q9Q2G8    	    71	  A	  P	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    71	    A	    L	         ?	Q9Q2G8    	    71	  A	  L	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    71	    A	    S	         ?	Q9Q2G8    	    71	  A	  S	 possibly damaging	     0.805	    0.0722	     0.842
+Q9Q2G8              	    72	    I	    T	         ?	Q9Q2G8    	    72	  I	  T	            benign	     0.004	     0.408	     0.975
+Q9Q2G8              	    72	    I	    L	         ?	Q9Q2G8    	    72	  I	  L	            benign	     0.001	     0.852	     0.994
+Q9Q2G8              	    72	    I	    V	         ?	Q9Q2G8    	    72	  I	  V	            benign	         0	         1	         1
+Q9Q2G8              	    73	    G	    R	         ?	Q9Q2G8    	    73	  G	  R	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    73	    G	    Q	         ?	Q9Q2G8    	    73	  G	  Q	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    73	    G	    T	         ?	Q9Q2G8    	    73	  G	  T	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    73	    G	    C	         ?	Q9Q2G8    	    73	  G	  C	 probably damaging	     0.999	   0.00574	     0.136
+Q9Q2G8              	    73	    G	    V	         ?	Q9Q2G8    	    73	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    73	    G	    A	         ?	Q9Q2G8    	    73	  G	  A	 probably damaging	     0.979	    0.0411	     0.755
+Q9Q2G8              	    73	    G	    K	         ?	Q9Q2G8    	    73	  G	  K	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    73	    G	    P	         ?	Q9Q2G8    	    73	  G	  P	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    74	    T	    S	         ?	Q9Q2G8    	    74	  T	  S	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    74	    T	    I	         ?	Q9Q2G8    	    74	  T	  I	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    75	    V	    E	         ?	Q9Q2G8    	    75	  V	  E	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    75	    V	    G	         ?	Q9Q2G8    	    75	  V	  G	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    76	    L	    I	         ?	Q9Q2G8    	    76	  L	  I	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    77	    V	    I	         ?	Q9Q2G8    	    77	  V	  I	            benign	         0	         1	         1
+Q9Q2G8              	    77	    V	    G	         ?	Q9Q2G8    	    77	  V	  G	            benign	     0.036	     0.176	     0.945
+Q9Q2G8              	    77	    V	    E	         ?	Q9Q2G8    	    77	  V	  E	            benign	     0.116	     0.142	     0.927
+Q9Q2G8              	    78	    G	    A	         ?	Q9Q2G8    	    78	  G	  A	 probably damaging	     0.979	    0.0411	     0.755
+Q9Q2G8              	    78	    G	    V	         ?	Q9Q2G8    	    78	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    78	    G	    E	         ?	Q9Q2G8    	    78	  G	  E	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    79	    P	    A	         ?	Q9Q2G8    	    79	  P	  A	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    79	    P	    S	         ?	Q9Q2G8    	    79	  P	  S	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    79	    P	    T	         ?	Q9Q2G8    	    79	  P	  T	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    79	    P	    L	         ?	Q9Q2G8    	    79	  P	  L	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    80	    T	    P	         ?	Q9Q2G8    	    80	  T	  P	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    81	    P	    A	         ?	Q9Q2G8    	    81	  P	  A	 possibly damaging	     0.904	    0.0621	     0.816
+Q9Q2G8              	    81	    P	    T	         ?	Q9Q2G8    	    81	  P	  T	 probably damaging	     0.958	    0.0492	     0.783
+Q9Q2G8              	    81	    P	    H	         ?	Q9Q2G8    	    81	  P	  H	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    81	    P	    R	         ?	Q9Q2G8    	    81	  P	  R	 probably damaging	     0.988	    0.0353	     0.727
+Q9Q2G8              	    82	    V	    I	         ?	Q9Q2G8    	    82	  V	  I	 possibly damaging	     0.455	    0.0995	     0.889
+Q9Q2G8              	    82	    V	    L	         ?	Q9Q2G8    	    82	  V	  L	 possibly damaging	     0.455	    0.0995	     0.889
+Q9Q2G8              	    82	    V	    A	         ?	Q9Q2G8    	    82	  V	  A	 possibly damaging	     0.455	    0.0995	     0.889
+Q9Q2G8              	    82	    V	    G	         ?	Q9Q2G8    	    82	  V	  G	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    82	    V	    T	         ?	Q9Q2G8    	    82	  V	  T	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    82	    V	    F	         ?	Q9Q2G8    	    82	  V	  F	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    82	    V	    D	         ?	Q9Q2G8    	    82	  V	  D	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    83	    N	    D	         ?	Q9Q2G8    	    83	  N	  D	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    83	    N	    K	         ?	Q9Q2G8    	    83	  N	  K	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    83	    N	    I	         ?	Q9Q2G8    	    83	  N	  I	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    83	    N	    T	         ?	Q9Q2G8    	    83	  N	  T	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    84	    I	    L	         ?	Q9Q2G8    	    84	  I	  L	            benign	     0.001	     0.852	     0.994
+Q9Q2G8              	    84	    I	    M	         ?	Q9Q2G8    	    84	  I	  M	            benign	     0.061	     0.161	     0.938
+Q9Q2G8              	    84	    I	    K	         ?	Q9Q2G8    	    84	  I	  K	            benign	     0.036	     0.176	     0.945
+Q9Q2G8              	    85	    I	    L	         ?	Q9Q2G8    	    85	  I	  L	            benign	     0.001	     0.852	     0.994
+Q9Q2G8              	    85	    I	    S	         ?	Q9Q2G8    	    85	  I	  S	            benign	     0.018	     0.202	     0.953
+Q9Q2G8              	    85	    I	    F	         ?	Q9Q2G8    	    85	  I	  F	            benign	     0.018	     0.202	     0.953
+Q9Q2G8              	    85	    I	    N	         ?	Q9Q2G8    	    85	  I	  N	            benign	     0.286	     0.115	     0.907
+Q9Q2G8              	    86	    G	    S	         ?	Q9Q2G8    	    86	  G	  S	 probably damaging	     0.991	    0.0326	     0.711
+Q9Q2G8              	    86	    G	    I	         ?	Q9Q2G8    	    86	  G	  I	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    86	    G	    E	         ?	Q9Q2G8    	    86	  G	  E	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    86	    G	    N	         ?	Q9Q2G8    	    86	  G	  N	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    86	    G	    Q	         ?	Q9Q2G8    	    86	  G	  Q	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    86	    G	    R	         ?	Q9Q2G8    	    86	  G	  R	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    86	    G	    K	         ?	Q9Q2G8    	    86	  G	  K	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    87	    R	    S	         ?	Q9Q2G8    	    87	  R	  S	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    88	    N	    A	         ?	Q9Q2G8    	    88	  N	  A	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    89	    L	    V	         ?	Q9Q2G8    	    89	  L	  V	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    90	    L	    V	         ?	Q9Q2G8    	    90	  L	  V	            benign	     0.008	     0.239	     0.963
+Q9Q2G8              	    90	    L	    S	         ?	Q9Q2G8    	    90	  L	  S	            benign	     0.038	     0.175	     0.944
+Q9Q2G8              	    90	    L	    F	         ?	Q9Q2G8    	    90	  L	  F	            benign	     0.038	     0.175	     0.944
+Q9Q2G8              	    90	    L	    W	         ?	Q9Q2G8    	    90	  L	  W	 possibly damaging	     0.763	    0.0767	     0.851
+Q9Q2G8              	    91	    T	    A	         ?	Q9Q2G8    	    91	  T	  A	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    91	    T	    P	         ?	Q9Q2G8    	    91	  T	  P	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    91	    T	    N	         ?	Q9Q2G8    	    91	  T	  N	 possibly damaging	     0.816	    0.0707	      0.84
+Q9Q2G8              	    92	    Q	    P	         ?	Q9Q2G8    	    92	  Q	  P	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    92	    Q	    L	         ?	Q9Q2G8    	    92	  Q	  L	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    92	    Q	    H	         ?	Q9Q2G8    	    92	  Q	  H	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    93	    I	    M	         ?	Q9Q2G8    	    93	  I	  M	            benign	     0.004	     0.408	     0.975
+Q9Q2G8              	    93	    I	    V	         ?	Q9Q2G8    	    93	  I	  V	            benign	         0	         1	         1
+Q9Q2G8              	    93	    I	    T	         ?	Q9Q2G8    	    93	  I	  T	            benign	     0.003	     0.556	     0.981
+Q9Q2G8              	    93	    I	    F	         ?	Q9Q2G8    	    93	  I	  F	            benign	     0.004	     0.408	     0.975
+Q9Q2G8              	    93	    I	    N	         ?	Q9Q2G8    	    93	  I	  N	            benign	     0.151	     0.134	     0.921
+Q9Q2G8              	    94	    G	    A	         ?	Q9Q2G8    	    94	  G	  A	 probably damaging	     0.979	    0.0411	     0.755
+Q9Q2G8              	    94	    G	    V	         ?	Q9Q2G8    	    94	  G	  V	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    94	    G	    R	         ?	Q9Q2G8    	    94	  G	  R	 probably damaging	     0.997	    0.0167	     0.409
+Q9Q2G8              	    95	    C	    G	         ?	Q9Q2G8    	    95	  C	  G	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    95	    C	    S	         ?	Q9Q2G8    	    95	  C	  S	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    95	    C	    F	         ?	Q9Q2G8    	    95	  C	  F	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    95	    C	    Y	         ?	Q9Q2G8    	    95	  C	  Y	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    95	    C	    R	         ?	Q9Q2G8    	    95	  C	  R	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    96	    T	    P	         ?	Q9Q2G8    	    96	  T	  P	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    96	    T	    S	         ?	Q9Q2G8    	    96	  T	  S	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    96	    T	    R	         ?	Q9Q2G8    	    96	  T	  R	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    97	    L	    S	         ?	Q9Q2G8    	    97	  L	  S	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    97	    L	    F	         ?	Q9Q2G8    	    97	  L	  F	 possibly damaging	     0.915	    0.0601	     0.813
+Q9Q2G8              	    98	    N	    D	         ?	Q9Q2G8    	    98	  N	  D	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    98	    N	    S	         ?	Q9Q2G8    	    98	  N	  S	 possibly damaging	     0.659	    0.0866	     0.864
+Q9Q2G8              	    98	    N	    I	         ?	Q9Q2G8    	    98	  N	  I	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    98	    N	    Y	         ?	Q9Q2G8    	    98	  N	  Y	 probably damaging	     0.974	    0.0438	     0.763
+Q9Q2G8              	    99	    F	    A	         ?	Q9Q2G8    	    99	  F	  A	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    99	    F	    P	         ?	Q9Q2G8    	    99	  F	  P	 possibly damaging	     0.944	    0.0544	     0.797
+Q9Q2G8              	    99	    F	    S	         ?	Q9Q2G8    	    99	  F	  S	 possibly damaging	     0.663	    0.0861	     0.864
+Q9Q2G8              	    99	    F	    L	         ?	Q9Q2G8    	    99	  F	  L	            benign	     0.271	     0.116	     0.909
+Q9Q2G8              	    99	    F	    D	         ?	Q9Q2G8    	    99	  F	  D	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    99	    F	    K	         ?	Q9Q2G8    	    99	  F	  K	 possibly damaging	     0.827	    0.0695	     0.838
+Q9Q2G8              	    99	    F	    R	         ?	Q9Q2G8    	    99	  F	  R	 possibly damaging	     0.944	    0.0544	     0.797
+Q9Q2G8              	    99	    F	    Y	         ?	Q9Q2G8    	    99	  F	  Y	 possibly damaging	     0.462	    0.0994	     0.888
+Q9Q2G8              	    99	    F	    E	         ?	Q9Q2G8    	    99	  F	  E	 possibly damaging	     0.827	    0.0695	     0.838
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.2r398
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 03-Jan-2012 (78304 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)

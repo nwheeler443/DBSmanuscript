@@ -1,6 +1,4 @@
 dbs <- read.delim("ent-gal.dbs", comment.char="#", header=F, stringsAsFactors=F)
-#exclude = read.table("nonschanges")
-#dbsnsonly <- dbs[is.na(match(dbs[,1], exclude[,1])),]
 
 dbsgenes <- unique(dbs[,1])
 scores = data.frame()
@@ -27,14 +25,13 @@ pathdata <- pathdata[nrow(pathdata):1,]
 pathdata$totalgenes <- pathdata[,1]*2+(pathdata[,4]+pathdata[,5])*2
 pathdata[,7:10] <- pathdata[,2:5]/pathdata$totalgenes						# losses and uniques as fractions of total
 pathdata[,11:12] <- (pathdata[,1]-pathdata[,2:3]+pathdata[,4:5])/pathdata[,6]			# functional proportion of genome
-#pathdata <- pathdata[order(pathdata[,13]),]
 
 pathdata <- pathdata[pathdata[,12]!="Inf",]
 pathdataT<-matrix(c(pathdata[,10], pathdata[,7], pathdata[,11], pathdata[,12], pathdata[,8], pathdata[,9]),nrow=nrow(pathdata),ncol=6,dimnames=list(c(as.character(rownames(pathdata))),c("unique to pathogen", "loss in commensal", "commensal", "pathogen", "loss in pathogen", "unique to commensal")))
 
 simpleCap <- function(x) {
 	s <- strsplit(x, " ")[[1]]
-	paste(toupper(substring(s, 1,1)), substring(s, 2),		# this capitalizes all words - maybe delete one of the 1s to fix this?
+	paste(toupper(substring(s, 1,1)), substring(s, 2),
 	sep="", collapse=" ")
 }
 
@@ -44,7 +41,6 @@ dndshist <- hist(log10(combined[,5]), breaks=50)
 ################################################################################
 
 plotfig <- function() {
-	#####################
 	
 	par(fig=c(0,0.78,0.7,1), mar=c(3.5,9,2,1), mgp=c(2,0.5,0))
     hist(scores[is.na(match(dbsgenes, exclude[,1])),1], xlab="Delta-bitscore", main="",xlim=c(-8,8), breaks=300, freq=FALSE, ylim=c(0,0.5))

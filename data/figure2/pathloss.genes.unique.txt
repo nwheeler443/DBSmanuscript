@@ -1,22 +1,22 @@
-total shared genes	genes with low DBS	genes with high DBS	genes only in commensal	genes only in pathogen
-Carbohydrate metabolism	293	2	17	12	22
-Energy metabolism	130	1	3	3	1
-Lipid metabolism	69	0	5	1	0
-Nucleotide metabolism	106	0	1	1	0
-Amino acid metabolism	198	0	7	5	12
-Other amino acids	65	0	7	2	0
-Glycan biosynthesis and metabolism	51	0	1	0	0
-Cofactors and vitamins	140	1	12	3	4
-Terpenoids and polyketides	43	0	1	0	0
-Secondary metabolites	12	0	0	0	0
-Xenobiotics	24	0	1	1	0
-Transcription	4	0	0	0	0
-Translation	83	0	2	0	0
-Protein folding, sorting and degradation	49	0	2	1	3
-DNA replication and repair	55	1	1	3	1
-Membrane transport	247	2	13	8	10
-Signal transduction	153	2	12	9	4
-Sulfur metabolism	51	1	1	3	1
-Chemotaxis	23	0	4	1	0
-Metabolism in diverse environments	212	1	2	9	3
-Total assigned to a pathway	1457	8	74	49	31
+total shared genes	genes with low DBS	genes with high DBS	genes only in commensal	genes only in pathogen	N and B Ent pseudogenes	N and B Gal pseudogenes
+Carbohydrate metabolism	281	1	10	12	2	0	5
+Energy metabolism	128	1	2	3	1	0	0
+Lipid metabolism	65	0	2	1	0	0	3
+Nucleotide metabolism	105	0	0	1	0	1	0
+Amino acid metabolism	188	0	3	5	1	1	5
+Other amino acids	61	0	4	2	0	0	2
+Glycan biosynthesis and metabolism	51	0	1	0	0	0	0
+Cofactors and vitamins	133	1	9	3	2	1	5
+Terpenoids and polyketides	41	0	0	0	0	0	2
+Secondary metabolites	12	0	0	0	0	0	0
+Processing xenobiotics	22	0	0	1	0	0	2
+Transcription	4	0	0	0	0	0	0
+Translation	83	0	2	0	0	0	0
+Protein folding, sorting and degradation	48	0	1	1	1	0	1
+DNA replication and repair	55	1	1	3	1	0	0
+Membrane transport	238	2	6	8	8	0	3
+Signal transduction	143	2	9	9	4	0	7
+Sulfur metabolism	50	1	1	3	1	0	0
+Chemotaxis	22	0	3	1	0	0	0
+Metabolism in diverse environments	208	1	1	9	3	0	3
+Total assigned to a pathway	1401	7	45	49	22	2	30
